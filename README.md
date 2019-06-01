@@ -1,2 +1,3 @@
 # mem
-Go memory management experiments.
+
+* one way compression functions
